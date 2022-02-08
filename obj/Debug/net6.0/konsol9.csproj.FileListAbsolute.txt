@@ -1,0 +1,15 @@
+E:\patika\practises\konsol9\bin\Debug\net6.0\konsol9.exe
+E:\patika\practises\konsol9\bin\Debug\net6.0\konsol9.deps.json
+E:\patika\practises\konsol9\bin\Debug\net6.0\konsol9.runtimeconfig.json
+E:\patika\practises\konsol9\bin\Debug\net6.0\konsol9.dll
+E:\patika\practises\konsol9\bin\Debug\net6.0\ref\konsol9.dll
+E:\patika\practises\konsol9\bin\Debug\net6.0\konsol9.pdb
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.csproj.AssemblyReference.cache
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.GeneratedMSBuildEditorConfig.editorconfig
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.AssemblyInfoInputs.cache
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.AssemblyInfo.cs
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.csproj.CoreCompileInputs.cache
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.dll
+E:\patika\practises\konsol9\obj\Debug\net6.0\ref\konsol9.dll
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.pdb
+E:\patika\practises\konsol9\obj\Debug\net6.0\konsol9.genruntimeconfig.cache
